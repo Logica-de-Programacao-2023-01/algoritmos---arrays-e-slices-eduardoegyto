@@ -6,7 +6,7 @@ func main() {
 	
   x := []int{1, 2, 3, 4, 5, 6, 7, 8}
 
-	var num1, num2 int
+	var num1, num2 int 
 
 	
 	fmt.Print("Digite o índice do primeiro elemento: ")
